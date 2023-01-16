@@ -1,0 +1,16 @@
+txt = 'Hello World'
+
+print(len(txt))
+print("-------------------------")
+print(txt[-1])
+print("-------------------------")
+print(txt[2:6])
+print("-------------------------")
+print(txt.replace(' ',''))
+print("-------------------------")
+print(txt.upper())
+print("-------------------------")
+print(txt.lower())
+print("-------------------------")
+print(txt.replace('H','J'))
+print("-------------------------")
